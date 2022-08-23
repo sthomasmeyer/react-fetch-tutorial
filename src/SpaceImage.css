@@ -1,0 +1,26 @@
+body {
+  background-color: #00040d;
+}
+
+.SpaceImage {
+  background-color: ghostwhite;
+  margin: auto;
+  width: 80%;
+  border: 8px solid lightcoral;
+  border-radius: 7%;
+  padding: 21px;
+  align-items: center;
+  text-align: center;
+  overflow: auto;
+}
+
+.SpaceImage-header {
+  color: #00040d;
+  font-size: 2rem;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.SpaceImage-image {
+  max-height: 100%;
+  max-width: 100%;
+}
